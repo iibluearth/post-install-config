@@ -20,7 +20,7 @@ This tutorial outlines the post-install of the open-source help desk ticketing s
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>List of Post-Install Configuration</h2>
 
 - Configure Roles, Departments, and Teams
 - Configure Service-Level Agreement (SLA)
