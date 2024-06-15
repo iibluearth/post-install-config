@@ -35,7 +35,7 @@ This tutorial outlines the post-install of the open-source help desk ticketing s
 1. Configuring Supreme Admin Role:
 
 - Navigate to http://localhost/osTicket/scp/login.php through your browser.
-- Log in using the osTicket account credentials (User: john / Password: Labpassword1).
+- Log in using the osTicket account credentials (User: kayla / Password: Labpassword1).
 - After logging in, click "Admin Panel" in the top right corner.
 </p>
 <br />
@@ -120,8 +120,8 @@ This tutorial outlines the post-install of the open-source help desk ticketing s
 - Create "Jane" as a member of the "Level II Support" team.
 - Repeat the process to create "John Doe" with limited access to the "Support" department.
 - Use the provided agent info for both.
-- Name: Jane Doe / Email Address: jane.doe@osticket.com / Username: jane.doe / Password: Password1
-- Name: John Doe / Email Address: john.doe@osticket.com / Username: john.doe / Password: Password1
+- Name: Jane Doe / Email Address: jane.doe@osticket.com / Username: jane.doe / Password: Labpassword1
+- Name: John Doe / Email Address: john.doe@osticket.com / Username: john.doe / Password: Labpassword1
 </p>
 <br />
 
@@ -136,10 +136,10 @@ This tutorial outlines the post-install of the open-source help desk ticketing s
 6. Creating Users/Customers:
 
 - In the "Agent Panel", under the "Users" tab, select "Add User".
-- Create simple users named "Karen" and "Ken" with basic email addresses.
+- Create simple users named "Alex" and "Ashley" with basic email addresses.
 - Click "Add User" to finish.
-- Karen / karen@osticket.com
-- Ken / ken@osticket.com
+- Alex / alex@osticket.com
+- Ashley / ashley@osticket.com
 </p>
 <br />
 
