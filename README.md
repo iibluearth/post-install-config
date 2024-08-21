@@ -25,7 +25,7 @@ This tutorial outlines the post-install of the open-source help desk ticketing s
  <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/hlfPQ0A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FjWfkIf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 1. Configuring Supreme Admin Role:
@@ -37,19 +37,19 @@ This tutorial outlines the post-install of the open-source help desk ticketing s
 <br />
 
 <p>
-<img src="https://i.imgur.com/mNBJy3y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qm4Q4bk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/Rm4bvCM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NPC8c90.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   <p>
-<img src="https://i.imgur.com/mHmCpFY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Y0UGdY6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   <p>
-<img src="https://i.imgur.com/QuAXRWz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LxV9e2G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  
@@ -64,7 +64,7 @@ This tutorial outlines the post-install of the open-source help desk ticketing s
 <br />
 
 <p>
-<img src="https://i.imgur.com/waRYQhP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/U0yY27E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 3. Adding System Administrators Department:
@@ -76,7 +76,7 @@ This tutorial outlines the post-install of the open-source help desk ticketing s
 <br />
 
 <p>
-<img src="https://i.imgur.com/Wg2PaDY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SKEoAV2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 4. Setting Up Level II Support Team:
@@ -88,23 +88,23 @@ This tutorial outlines the post-install of the open-source help desk ticketing s
 <br />
 
 <p>
-<img src="https://i.imgur.com/dQXcfIX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JiiVJIS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/YmQLnvO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JaOHgKY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/F2TB4cq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1Wa5P4r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/DoUHAOy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SWGg2sW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/O7BrnZF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Wme8FLh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 5. Creating Agents:
@@ -122,11 +122,11 @@ This tutorial outlines the post-install of the open-source help desk ticketing s
 <br />
 
 <p>
-<img src="https://i.imgur.com/1b5niGd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ghOosNK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/m7GLfb9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FhrojRM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 6. Creating Users/Customers:
@@ -140,19 +140,19 @@ This tutorial outlines the post-install of the open-source help desk ticketing s
 <br />
 
 <p>
-<img src="https://i.imgur.com/CUvVjWr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vJx7IXB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/txZdq5h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/leZbtR0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/qPgIX3w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FYX3oiF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/5PuhaVv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uCATlRM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 7. Setting SLA Plans:
@@ -168,19 +168,19 @@ This tutorial outlines the post-install of the open-source help desk ticketing s
 <br />
 
 <p>
-<img src="https://i.imgur.com/EYeVQ1t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IydwP2C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/KDgPF92.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/t2Q70wY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/8MZBNqd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uIsOYev.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/va0fzci.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aCVwbjt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 8. Creating Help Topics:
@@ -196,7 +196,7 @@ This tutorial outlines the post-install of the open-source help desk ticketing s
 <br />
 
 <p>
-<img src="https://i.imgur.com/Pbndfcf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5ktAj9r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 9. Completion:
